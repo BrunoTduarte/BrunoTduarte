@@ -8,6 +8,8 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+![coding-typing](https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/15c0d755-c3c4-4f2b-9f5b-5f7de65f25c1)
+
 <!--
 **BrunoTduarte/BrunoTduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
