@@ -1,5 +1,6 @@
-<img src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/f43f99fd-86e1-4c4b-a8ed-f660b84d0125" width="800" height="200">
-
+<div align="center">
+<img align="center" src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/efa25aae-6193-46d8-91b6-ae8052064520" width="300" height="230">
+</div>
 <br>
 <br> 
 
