@@ -1,8 +1,5 @@
-<div stally = width=80%">  
-  
-  ![ai-generated-8622359_1920](https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/fb6dfa43-5546-4969-8899-2524467905e3)
+<img src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/97606647-0fbc-4ee1-a242-838feed7700b" width="500" height="100">
 
-</div>
 <br>
 <br> 
 
