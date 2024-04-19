@@ -1,4 +1,4 @@
-<div "width=80% bottom=50px">  
+<div stally = width=80%">  
   
   ![ai-generated-8622359_1920](https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/fb6dfa43-5546-4969-8899-2524467905e3)
 
