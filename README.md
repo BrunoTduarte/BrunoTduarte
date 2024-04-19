@@ -1,4 +1,4 @@
-<img src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/97606647-0fbc-4ee1-a242-838feed7700b" width="500" height="100">
+<img src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/f43f99fd-86e1-4c4b-a8ed-f660b84d0125" width="500" height="200">
 
 <br>
 <br> 
