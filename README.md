@@ -13,7 +13,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrunoTduarte&theme=Cyan-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 ### Tecnologias que estou estudando
-
+<img height="80" width="80" src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/7e103a07-7503-479b-830b-f98fa427e8a0">
 </div>
 <div align="center"><br>
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
