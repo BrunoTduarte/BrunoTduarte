@@ -1,4 +1,8 @@
-<img width=100% bottom=50px src="https://github.com/carolrbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<div "width=80% bottom=50px">  
+  
+  ![ai-generated-8622359_1920](https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/fb6dfa43-5546-4969-8899-2524467905e3)
+
+</div>
 <br>
 <br> 
 
@@ -40,7 +44,6 @@
 <br> 
 
 
-<img width=100% 
 
 
 
