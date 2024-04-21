@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/efa25aae-6193-46d8-91b6-ae8052064520" width="300" height="230">
+<img align="center" src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/efa25aae-6193-46d8-91b6-ae8052064520" width="230" height="170">
 </div>
 <br>
 <br> 
