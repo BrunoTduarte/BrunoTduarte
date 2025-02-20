@@ -4,8 +4,6 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+meu+nome+é+Bruno;Eu+tenho+17+anos;I'm+a+Software+Developer;Eu+sou+do+Brasil;welcome%3A)](https://git.io/typing-svg)
-
 <br>
 <br>
 
@@ -31,9 +29,6 @@
 
 
 
-
-<div align="center">
-<h3>Oque é um dev sem café?😵‍💫</h3>
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
 </a>
 </div>
