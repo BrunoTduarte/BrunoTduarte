@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/BrunoDUarte">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+initializing+session...;%3E+access+granted+%E2%9C%94;%3E+breaking+things+to+make+them+safer;%3E+red+teaming+LLMs+%F0%9F%A7%A0;%3E+hunting+bugs+on+HackerOne+%F0%9F%90%9B;%3E+pwning+boxes+on+Hack+The+Box+%F0%9F%93%A6;%3E+automating+recon+with+AI+agents+%F0%9F%A4%96" />
   </a>
 </p>
@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square&labelColor=0a0f2c" />
   <img src="https://img.shields.io/badge/LOCATION-S%C3%83O%20PAULO%2C%20BR-1f3fbf?style=flat-square&labelColor=0a0f2c" />
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=39ff14&label=VISITORS" />
 </p>
 
 ---
