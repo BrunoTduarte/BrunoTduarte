@@ -1,54 +1,98 @@
-<div align="center">
-<img align="center" src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/efa25aae-6193-46d8-91b6-ae8052064520" width="230" height="170">
-</div>
-<br>
-<br> 
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0f2c,50:1f3fbf,100:39ff14&text=BRUNO%20DUARTE&fontColor=e6edf3&fontSize=60&fontAlignY=38&desc=offensive%20security%20%E2%80%A2%20AI%20security%20%E2%80%A2%20bug%20bounty&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
 
-<br>
-<br>
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+initializing+session...;%3E+access+granted+%E2%9C%94;%3E+breaking+things+to+make+them+safer;%3E+red+teaming+LLMs+%F0%9F%A7%A0;%3E+hunting+bugs+on+HackerOne+%F0%9F%90%9B;%3E+pwning+boxes+on+Hack+The+Box+%F0%9F%93%A6;%3E+automating+recon+with+AI+agents+%F0%9F%A4%96" />
+  </a>
+</p>
 
-<div align="center">
-  
-### Tecnologias que estou estudando
-<img height="80" width="80" src="https://github.com/BrunoTduarte/BrunoTduarte/assets/167448778/7e103a07-7503-479b-830b-f98fa427e8a0">
-</div>
-<div align="center"><br>
-  <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Rafa-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square&labelColor=0a0f2c" />
+  <img src="https://img.shields.io/badge/LOCATION-S%C3%83O%20PAULO%2C%20BR-1f3fbf?style=flat-square&labelColor=0a0f2c" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=39ff14&label=VISITORS" />
+</p>
 
-</div>
+---
 
+<!-- ═══════════════════════ WHOAMI ═══════════════════════ -->
+## `> whoami`
 
+```bash
+root@bruno:~# cat /etc/profile.d/bruno.conf
 
+  NAME        =  "Bruno Duarte"
+  ROLE        =  "Cybersecurity Student @ FIAP"
+  FOCUS       =  ["Offensive Security", "AI Security", "Cloud Security"]
+  AI_SEC      =  ["LLM Red Teaming", "Prompt Injection", "AI Agents for Recon", "MCP"]
+  PLAYGROUND  =  ["HackerOne", "Hack The Box", "CTFs"]
+  CERTS       =  ["Red Hat RHCSA", "Linux Admin", "Microsoft Azure Admin"]
+  CODING      =  "since 2023"
+  MISSION     =  "build my own cybersec company 🚀"
+  PHILOSOPHY  =  "attack the machine, then teach the machine to attack."
 
+root@bruno:~# █
+```
 
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
+<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
+## `> ls ~/arsenal`
 
-<br>
-<br> 
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
+**⚔️ Offensive**
 
+<img src="https://img.shields.io/badge/Kali_Linux-0a0f2c?style=for-the-badge&logo=kalilinux&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Burp_Suite-0a0f2c?style=for-the-badge&logo=burpsuite&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Wireshark-0a0f2c?style=for-the-badge&logo=wireshark&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Hack_The_Box-0a0f2c?style=for-the-badge&logo=hackthebox&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/HackerOne-0a0f2c?style=for-the-badge&logo=hackerone&logoColor=39ff14" />
 
+</td>
+<td align="center" width="33%">
 
+**🧠 AI Security**
 
-<!--
-**BrunoTduarte/BrunoTduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Claude-0a0f2c?style=for-the-badge&logo=anthropic&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/MCP-0a0f2c?style=for-the-badge&logo=modelcontextprotocol&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/Hugging_Face-0a0f2c?style=for-the-badge&logo=huggingface&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/LangChain-0a0f2c?style=for-the-badge&logo=langchain&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/OWASP_LLM_Top_10-0a0f2c?style=for-the-badge&logo=owasp&logoColor=c084fc" />
 
-Here are some ideas to get you started:
+</td>
+<td align="center" width="33%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛡️ Infra & Cloud**
+
+<img src="https://img.shields.io/badge/Red_Hat-0a0f2c?style=for-the-badge&logo=redhat&logoColor=1f8fff" />
+<img src="https://img.shields.io/badge/Debian-0a0f2c?style=for-the-badge&logo=debian&logoColor=1f8fff" />
+<img src="https://img.shields.io/badge/Azure-0a0f2c?style=for-the-badge&logo=microsoftazure&logoColor=1f8fff" />
+<img src="https://img.shields.io/badge/Docker-0a0f2c?style=for-the-badge&logo=docker&logoColor=1f8fff" />
+<img src="https://img.shields.io/badge/Git-0a0f2c?style=for-the-badge&logo=git&logoColor=1f8fff" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,debian,azure,docker,git,vscode&theme=dark" />
+</p>
+
+---
+
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/bruno-duartecyber"><img src="https://img.shields.io/badge/LinkedIn-0a0f2c?style=for-the-badge&logo=linkedin&logoColor=1f8fff" /></a>
+  <a href="https://hackerone.com/hackerone.com/brunoDUarte"><img src="https://img.shields.io/badge/HackerOne-0a0f2c?style=for-the-badge&logo=hackerone&logoColor=39ff14" /></a>
+  <a href="https://profile.hackthebox.com/profile/019fffe9-9781-70c4-8a0b-45637526a283?utm_medium=copy_url"><img src="https://img.shields.io/badge/Hack_The_Box-0a0f2c?style=for-the-badge&logo=hackthebox&logoColor=39ff14" /></a>
+  <a href="mailto:btomeduarte@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f2c?style=for-the-badge&logo=gmail&logoColor=1f8fff" /></a>
+</p>
+
+<p align="center"><i>"The quieter you become, the more you are able to hear."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:39ff14,50:1f3fbf,100:0a0f2c" />
+</p>
